@@ -1,0 +1,6 @@
+string_id,vi,en
+command_help_desc,X-xem hướng dẫn... mình sẽ cố hết sức! (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄),S-see help... I'll try my best! (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)
+bot_use_command_prompt,H-hả?! Bot mà cũng đòi dùng lệnh của mình á?! Mình cũng là bot mà... (꒪⌓꒪),W-what?! A bot trying to use my commands?! But I'm also a bot... (꒪⌓꒪)
+banned_user_prompt,"B-bạn đã bị ban rồi... xin lỗi... vui lòng liên hệ anh chủ để biết thêm nha... (´;ω;`)","Y-you've been banned... sorry... please contact the bot owner for details... (´;ω;`)"
+command_not_found_prompt,Eeek!! L-lệnh đó không tồn tại! M-mình có làm gì lộn không?! (>_<),Eeek!! T-that command doesn't exist! D-did I do something wrong?! (>_<)
+on_mentioned_response,"A-ah!! Ai gọi mình á?! P-prefix của mình ở server này là `{0}`... thử nhắn `{0}help` xem... (⁄ ⁄•⁄ω⁄•⁄ ⁄)","A-ah!! Someone called me?! M-my prefix in this server is `{0}`... try `{0}help`... (⁄ ⁄•⁄ω⁄•⁄ ⁄)"

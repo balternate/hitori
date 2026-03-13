@@ -1,0 +1,14 @@
+string_id,vi,en
+command_desc,Tạo ticket hỗ trợ,Create a support ticket
+command_usage,Sử dụng lệnh này để tạo một ticket hỗ trợ,Use this command to create a support ticket
+command_param_reason_desc,Lý do tạo ticket,Reason for creating the ticket
+close_command_desc,Đóng ticket hỗ trợ,Close a support ticket
+ticket_created,Đã tạo ticket {0}!,Ticket {0} created!
+ticket_closed,Đã đóng ticket!,Ticket closed!
+not_a_ticket,Kênh này không phải là ticket!,This channel is not a ticket!
+no_permission,Bạn không có quyền dùng lệnh này!,You don't have permission!
+bot_no_permission,Bot không có quyền!,Bot doesn't have permission!
+ticket_embed_title,Ticket Hỗ Trợ,Support Ticket
+ticket_embed_desc,Ticket được tạo bởi {0},Ticket created by {0}
+ticket_embed_reason,Lý do,Reason
+ticket_embed_footer,Sử dụng /close_ticket để đóng ticket,Use /close_ticket to close the ticket

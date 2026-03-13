@@ -1,0 +1,17 @@
+{
+  "dev_ids": [
+    920935878375927808,
+    703530385660969061
+  ],
+  "banned_users": [],
+  "specific_prefix": {},
+  "autoreact_emojis": {},
+  "word_react_messages": {
+    "nkc": "nam ki cho"
+  },
+  "welcome_channel_id": 0,
+  "settings": {
+    "language": "vi",
+    "timezone": "Asia/Ho_Chi_Minh"
+  }
+}

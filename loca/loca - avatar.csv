@@ -1,0 +1,8 @@
+string_id,vi,en
+command_desc,X-xem avatar của ai đó... 👀,S-see someone's avatar... 👀
+command_usage,"D-dùng lệnh này để xin mượn avatar của ai đó... mình sẽ lấy giùm bạn ngay!","U-use this to see someone's avatar... I-I'll get it for you right away!"
+command_param_user_desc,N-người bạn nhắm tới...,T-the person whose avatar you want to see...
+command_param_server_avatar_desc,"Đ-đặt False để xem avatar gốc của họ nha... mặc định là True á...","S-set to False to see their global avatar... default is True..."
+avatar_embed_title,A-avatar đây ạ!,H-here's the avatar!
+avatar_embed_desc,Đ-đây là màn ảnh của {0}!,T-this is {0}'s avatar!
+avatar_noavatar,E-ehh?! {0} thậm chí không có avatar luôn á?! Làm sao mà ẩn nấp được đây... (꒪⌓꒪),E-ehh?! {0} doesn't even have an avatar?! How can they hide... (꒪⌓꒪)

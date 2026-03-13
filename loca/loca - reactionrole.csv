@@ -1,0 +1,11 @@
+string_id,vi,en
+no_permission,B-bạn hong có quyền dùng lệnh này đ-đâu! (>_<),Y-you don't have permission! (>_<)
+bot_no_permission,Hiiiii!! M-mình hông có quyền rùi! C-cho phép mình nha? (´;ω;`),Eeeek!! I-I don't have permission! C-can you give it to me? (´;ω;`)
+success,M-mình gửi xong rùi nha! Phù... (・_・;),S-succesfully sent! Phew... (・_・;)
+failed,T-thất bại rồi... có khi do mình thiếu emoji... T-tệ quá đi mất... (꒪⌓꒪),F-failed! Maybe I'm missing an emoji... I'm so useless... (꒪⌓꒪)
+role_added,M-mình đã cấp role **{0}** ở **{1}** nha!,R-role **{0}** added in **{1}**!
+role_removed,M-mình đã rút role **{0}** ở **{1}** nha!,R-role **{0}** removed from **{1}**!
+one_role_only,Từ **{0}**:#B-bạn chỉ ôm được 1 role thui à... bạn đang có dính mấy cái này rùi nà:,From **{0}**:#Y-you can only pick 1 role... you already have these:
+command_desc,T-tạo tin nhắn cho người ta bấm react để nhận role...,S-send a message to react for roles...
+command_usage,"S-sử dụng để tạo tin nhắn cấp role... N-nhớ cấp cho mình cái quyền sửa role với nhắn tin nhe... role mình phải cao hơn nha... l-làm ơn đừng chửi mình...","S-send a reaction role message... p-please give me manage roles and send msg perms... and put my role higher... p-please don't yell at me..."
+command_param_prompt_desc,"X-xin lỗi... m-mình lười gõ đoạn này quá nên thông cảm nha... m-mò lẹ thui rùi bỏ mình xó cũng được...",S-sorry I'm too lazy to type this description... f-figure it out yourself maybe... i'm useless...

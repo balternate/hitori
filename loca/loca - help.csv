@@ -1,0 +1,17 @@
+string_id,vi,en
+help_cmd_desc,"H-hiện trợ giúp... dùng `{prefix}help [tên lệnh] [tên lệnh con]` để xem chi tiết á...","S-show help... use `{prefix}help [command] [subcommand]` for details..."
+help_cmd_usage,"D-dùng để xem danh sách mấy lệnh mà mình có thể chạy... mình sẽ cố hết sức! (>_<)","U-use this to see the command list... I'll try my best! (>_<)"
+help_param_option_desc,S-số trang hoặc tên lệnh muốn xem...,P-page number or command name...
+help_param_subcommand_desc,T-tên lệnh con muốn coi...,S-subcommand name...
+help_title,TRỢ GIÚP (HELP),HELP
+help_footer,T-trang: {0}/{1},P-page: {0}/{1}
+help_footer2,D-dùng {0}help [số] để coi thêm nha...,U-use {0}help [page] to see more...
+help_invalid_command,Eeek! M-mình mò mà không ra lệnh đó! (>_<),Eeek! I-I can't find that command! (>_<)
+help_invalid_command_desc,X-xin nhập cho chuẩn tên lệnh lại nha... đừng la mình...,P-please enter the correct command name... don't be mad...
+help_invalid_subcommand,H-hả?! Lệnh con ngộ kỳ vậy! T-tìm không ra! (>_<),W-what?! That subcommand doesn't exist! (>_<)
+help_invalid_subcommand_desc,"K-không tìm được `{0}` á! Cho trớt quớt tên rồi...","C-can't find `{0}`! Please enter the real name..."
+help_usage,Công dụng,Usage
+help_parameters,Tùy chọn,Options
+help_aliases,Tên phụ,Aliases
+commands_group,Nhóm lệnh,Command group
+help_commands_in_group,Lệnh con,Sub-commands

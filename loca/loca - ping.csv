@@ -1,0 +1,4 @@
+string_id,vi,en
+ping,P-pong! ({0}ms) ...m-mình vẫn còn sống đấy! <:njnk:1094916486029639710>,P-pong! ({0}ms) ...I-I'm still alive! <:njnk:1094916486029639710>
+command_desc,K-kiểm tra xem mình có đang rụng mạng không...,C-check if I'm still running...
+command_usage,"D-dùng lệnh này để xem mình có đang chạy không... và đo độ trễ nữa... m-mình hy vọng nó không cao (>_<)","U-use this to check if I'm still running... and check my latency... I hope it's not too high (>_<)"
